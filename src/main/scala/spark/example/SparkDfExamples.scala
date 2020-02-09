@@ -1,4 +1,4 @@
-package spark.cheatsheat
+package spark.example
 
 
 import org.apache.log4j.{Level, Logger}
